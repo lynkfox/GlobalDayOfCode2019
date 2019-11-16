@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28922.388
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDC2019", "GDC2019.csproj", "{76020CB4-375D-4997-B504-37A9CC3740E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GDC2019 - Run 1", "GDC2019 - Run 1.csproj", "{76020CB4-375D-4997-B504-37A9CC3740E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GDC2019Tests", "..\GDC2019Tests\GDC2019Tests.csproj", "{8D2AF941-0E7A-4598-A5B1-ACFF9E9539E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GDC2019Tests - Run 1", "..\GDC2019Tests - Run 1\GDC2019Tests - Run 1.csproj", "{3D90FB78-052D-42CF-91BD-D8F3B8FC30FF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{76020CB4-375D-4997-B504-37A9CC3740E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76020CB4-375D-4997-B504-37A9CC3740E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76020CB4-375D-4997-B504-37A9CC3740E2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{8D2AF941-0E7A-4598-A5B1-ACFF9E9539E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{8D2AF941-0E7A-4598-A5B1-ACFF9E9539E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{8D2AF941-0E7A-4598-A5B1-ACFF9E9539E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{8D2AF941-0E7A-4598-A5B1-ACFF9E9539E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D90FB78-052D-42CF-91BD-D8F3B8FC30FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D90FB78-052D-42CF-91BD-D8F3B8FC30FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D90FB78-052D-42CF-91BD-D8F3B8FC30FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D90FB78-052D-42CF-91BD-D8F3B8FC30FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
