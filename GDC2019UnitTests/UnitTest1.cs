@@ -1,9 +1,9 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace GDC2019Tests
+namespace GDC2019UnitTests
 {
     [TestClass]
-    public class GameOfLifeUnitTests
+    public class UnitTest1
     {
         [TestMethod]
         public void TestMethod1()

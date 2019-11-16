@@ -2,7 +2,7 @@
 
 namespace GDC2019
 {
-    public class GameOfLife
+    public class Class1
     {
     }
 }
